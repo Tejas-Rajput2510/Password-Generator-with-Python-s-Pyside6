@@ -1,0 +1,5 @@
+Step 1: Install python 3.14 from python.org.
+Step 2: Open your terminal and type "pip install pyside6" and wait for it to finish.
+Step 3: Download main.py and style.ui from this github repo.
+Step 4: Make sure both of the files are in same folder.
+Step 5: Run main.py file.
