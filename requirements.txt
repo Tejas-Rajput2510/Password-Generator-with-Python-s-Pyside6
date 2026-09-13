@@ -1,0 +1,4 @@
+Requirements for running this script:
+
+Python 3.14 or newer
+Pyside6
